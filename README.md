@@ -1,1 +1,1 @@
-# RayBanWebsite-Frontend
+This is a custom-designed Ray-Ban-inspired website developed using HTML, CSS, JavaScript, and Shery.js. It is a frontend-only project created with a unique design approach. To run this project locally, simply download the files and open the main HTML file using the Live Server extension in Visual Studio Code.
